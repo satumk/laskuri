@@ -4,6 +4,7 @@ package laskuri;
 public class Laskuri{
   /* laskuriolion kentan arvoa voi kasvattaa yhdella kutsumalla metodia
      lisaa(). Arvoa voi tarkastella ja sen voi nollata.                 */
+	// muokattu githubissa
 	private int tapahtumia;
         
         public Laskuri(int alkuarvo){ 
